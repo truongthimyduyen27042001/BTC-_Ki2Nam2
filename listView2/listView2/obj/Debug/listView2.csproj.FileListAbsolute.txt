@@ -1,0 +1,12 @@
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.csprojAssemblyReference.cache
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.Form1.resources
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.Properties.Resources.resources
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\bin\Debug\listView2.exe.config
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\bin\Debug\listView2.exe
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\bin\Debug\listView2.pdb
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.exe
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.pdb
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.Form2.resources
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\listView2\listView2\obj\Debug\listView2.Form3.resources
