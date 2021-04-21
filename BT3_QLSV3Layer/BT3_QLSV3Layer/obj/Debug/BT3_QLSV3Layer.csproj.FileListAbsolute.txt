@@ -1,0 +1,11 @@
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\bin\Debug\BT3_QLSV3Layer.exe.config
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\bin\Debug\BT3_QLSV3Layer.exe
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\bin\Debug\BT3_QLSV3Layer.pdb
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.csprojAssemblyReference.cache
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.Properties.Resources.resources
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.exe
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.pdb
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.Form1.resources
+D:\Đại học\Năm 2\Kì 2 Năm 2\Lập trình .Net\MVC3Layer\BT3_QLSV3Layer\BT3_QLSV3Layer\obj\Debug\BT3_QLSV3Layer.Form2.resources
