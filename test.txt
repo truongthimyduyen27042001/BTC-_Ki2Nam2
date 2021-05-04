@@ -5,3 +5,7 @@ ok chỉnh rồi
 
 -----
 duyen ngu :((((
+<<<<<<< HEAD
+=======
+test đi
+>>>>>>> 7e719e427e172fa70eb2a6e6e4efab283cc8b836
